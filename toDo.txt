@@ -1,4 +1,5 @@
 learn javascript
 do laundry
 fix O2 sensor on car
-
+turn in lab 4
+acquire vacuum
