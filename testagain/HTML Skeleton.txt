@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> Crypto Tracker 6000 </title>
+        <title> Crypto  g Tracker 6000 </title>
     </head>
 
     <body>
